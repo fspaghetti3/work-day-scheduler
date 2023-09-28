@@ -22,3 +22,7 @@ This application should run perfectly in any modern browser.
 ## Credits
 Stackoverflow: 
 https://stackoverflow.com/questions/22166708/using-a-function-with-an-interval-to-change-a-class-of-a-div
+
+Repo Link: https://github.com/fspaghetti3/work-day-scheduler
+
+Application Link: https://fspaghetti3.github.io/work-day-scheduler/
